@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "802930495916",
+    "firebase_url": "https://rianpushnotif.firebaseio.com",
+    "project_id": "rianpushnotif",
+    "storage_bucket": "rianpushnotif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802930495916:android:a98b0671c80aa559",
+        "android_client_info": {
+          "package_name": "com.rian.pushnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802930495916-7iisj72342367o4255u06s6usnb1j3k3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rian.pushnotif",
+            "certificate_hash": "5DB204372BBEB6CE7DC5582FEFC05F49CB1BE050"
+          }
+        },
+        {
+          "client_id": "802930495916-1l4jhs2rgsupn0qq1kanmb17guvljh28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2zYfyzw2qkBtSBIblj5z7mPGV3_4ODxk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802930495916-1l4jhs2rgsupn0qq1kanmb17guvljh28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
